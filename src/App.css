@@ -1,0 +1,24 @@
+body {
+    font-family: 'Phudu', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.img-megusta {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.card-body {
+    padding: 0px;
+}
+
+.img-card {
+    width: 400px;
+    height: 400px;
+}
